@@ -12,12 +12,18 @@ winston:	https://github.com/flatiron/winston
 
 
 Usage
+-----
+
+### Install
+	
+	npm install winston-couchdb
+
+### Initialisation
 
 	//initialise winston and transport
 	var winston = require('winston'),
 	    couchdb = require('./winston-couchdb');
-
-
+	    
 	//add coucdh
 	winston.add(couchdb, {
 		host : 'localhost',
