@@ -1,0 +1,9 @@
+
+#node stuff
+node_modules/
+node_modules/*
+
+
+#mac stuff
+.DS_Store
+*~

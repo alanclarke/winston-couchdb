@@ -1,0 +1,16 @@
+{
+	"name"            : "winston-couchdb",
+	"description"     : "a couchdb transport for the nodejs async logging library winston",
+	"version"         : "0.0.1",
+	"url"             : "https://github.com/alanclarke/winston-couchdb/",
+	"author"          : "Alan Clarke <hi@alz.so>",
+	"engines"         : ["node >= 0.6.0"],
+	"main"            : "./lib/winston-couchdb.js",
+	"devDependencies" : {
+							"winston" : "latest"                                                                                                                     
+						},
+	"repository"      : {
+							"type" : "git",
+							"url"  : "https://github.com/alanclarke/winston-couchdb.git"
+						}
+}
