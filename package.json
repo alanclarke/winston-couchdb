@@ -6,9 +6,8 @@
 	"author"          : "Alan Clarke <hi@alz.so>",
 	"engines"         : ["node >= 0.6.0"],
 	"main"            : "./lib/winston-couchdb.js",
-	"devDependencies" : {
-							"winston" : "latest"                                                                                                                     
-						},
+	"devDependencies" : { "winston" : "latest" },
+	"directories" 	  : { "lib":"./lib" },
 	"repository"      : {
 							"type" : "git",
 							"url"  : "https://github.com/alanclarke/winston-couchdb.git"
