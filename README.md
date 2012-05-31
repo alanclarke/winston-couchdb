@@ -16,7 +16,7 @@ Usage
 
 ### Install
 	
-	npm install winston-couchdb
+	npm install https://github.com/alanclarke/winston-couchdb/tarball/master
 
 ### Initialisation
 
@@ -40,7 +40,6 @@ Usage
 
 	//test logging an error message
 	winston.log('error', new Error('some message'));
-
 
 
 options
