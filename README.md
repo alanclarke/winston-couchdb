@@ -1,7 +1,8 @@
 winston-couchdb
 ===============
 
-### Note- this repo is now obsolete, please use the official winston-couchdb repo at https://github.com/indexzero/winston-couchdb
+### Note
+- this repo is now obsolete, please use the official winston-couchdb repo at https://github.com/indexzero/winston-couchdb
 
 -  title       : winston-couchdb
 -  author      : alan clarke
