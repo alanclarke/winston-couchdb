@@ -1,9 +1,6 @@
 winston-couchdb
 ===============
 
-### Note
-- this repo is now obsolete, please use the official winston-couchdb repo at https://github.com/indexzero/winston-couchdb
-
 -  title       : winston-couchdb
 -  author      : alan clarke
 -  created     : 9th May, 2012
@@ -63,3 +60,7 @@ options
 - passphrase : null,
 - cert       : null,
 - ca         : null
+
+
+### Note
+- this repo is now obsolete, please use the official winston-couchdb repo at https://github.com/indexzero/winston-couchdb
